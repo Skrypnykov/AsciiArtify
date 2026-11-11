@@ -1,4 +1,4 @@
-# AsciiArtify — Concept.md
+# AsciiArtify — Concept
 
 ## Вступ
 
