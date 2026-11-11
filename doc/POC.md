@@ -1,4 +1,4 @@
-# AsciiArtify — ArgoCD Proof of Concept
+# AsciiArtify — ArgoCD PoC
 
 ## 1. Мета PoC
 
