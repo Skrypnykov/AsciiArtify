@@ -132,7 +132,7 @@ kubectl get svc
 ```bash
 minikube service hello-world --url
 ```
-**Або** прокинути порти локально (рекомендовано для Linux Mint):
+**Або** прокинути порти локально:
 ```bash
 kubectl port-forward service/hello-world 8080:80
 ```
