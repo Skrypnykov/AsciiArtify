@@ -1,6 +1,6 @@
 # AsciiArtify — ArgoCD PoC
 
-## 1. Мета PoC
+## 1. Мета
 
 Мета цього Proof of Concept (PoC) — перевірити технічну можливість розгортання GitOps-системи на базі **ArgoCD** для проєкту **AsciiArtify** у Kubernetes-кластері.
 
