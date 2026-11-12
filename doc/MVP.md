@@ -33,7 +33,7 @@
    ```
 
 4. **Створено додаток `AsciiArtify` в ArgoCD з такими параметрами:**
-   * **Source:** Git-репозиторій `go-demo-app`
+   * **Source:** Git-репозиторій [`go-demo-app`](https://github.com/den-vasyliev/go-demo-app)
    * **Destination:** локальний кластер, namespace `argocd`
    * **Sync Policy:** автоматична синхронізація *(увімкнено автоматичне створення namespace)*
 
