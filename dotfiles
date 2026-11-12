@@ -1,0 +1,4 @@
+alias gs="git status"
+alias gp="git pull"
+alias ll="ls -la"
+alias k='kubectl'
